@@ -8,14 +8,42 @@ I build tools and methods for understanding evolutionary processes — from grap
 
 ### Documentation
 
-| Project | Description | Docs |
-|---------|-------------|------|
-| **ancify** | Polarization package for population genetics | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://ancify.readthedocs.io) |
-| **pysinger** | Python rewrite of the SINGER ARG sampler | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://pysinger.readthedocs.io) |
-| **FLI** | A Friendly Likelihood-based Inference Guide | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://fli.readthedocs.io) |
-| **watchgen** | The Watchmaker's Guide to Population Genetics | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://watchgen.readthedocs.io) |
-| **stdferdowsim** | Fork catalog for stdpopsim | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://stdferdowsim.readthedocs.io) |
-| **stdgrimmsim** | Fork catalog for stdpopsim | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://stdgrimmsim.readthedocs.io) |
+<table>
+<tr>
+<td align="center" width="150">
+<a href="https://ancify.readthedocs.io"><br><b>ancify</b></a><br>
+<a href="https://ancify.readthedocs.io"><img src="https://img.shields.io/badge/docs-readthedocs-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a><br>
+<sub>Polarization package</sub>
+</td>
+<td align="center" width="150">
+<a href="https://pysinger.readthedocs.io"><br><b>pysinger</b></a><br>
+<a href="https://pysinger.readthedocs.io"><img src="https://img.shields.io/badge/docs-readthedocs-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a><br>
+<sub>Python SINGER rewrite</sub>
+</td>
+<td align="center" width="150">
+<a href="https://fli.readthedocs.io"><br><b>FLI</b></a><br>
+<a href="https://fli.readthedocs.io"><img src="https://img.shields.io/badge/docs-readthedocs-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a><br>
+<sub>Likelihood inference guide</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<a href="https://watchgen.readthedocs.io"><br><b>watchgen</b></a><br>
+<a href="https://watchgen.readthedocs.io"><img src="https://img.shields.io/badge/docs-readthedocs-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a><br>
+<sub>Watchmaker's guide to popgen</sub>
+</td>
+<td align="center" width="150">
+<a href="https://stdferdowsim.readthedocs.io"><br><b>stdferdowsim</b></a><br>
+<a href="https://stdferdowsim.readthedocs.io"><img src="https://img.shields.io/badge/docs-readthedocs-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a><br>
+<sub>stdpopsim fork catalog</sub>
+</td>
+<td align="center" width="150">
+<a href="https://stdgrimmsim.readthedocs.io"><br><b>stdgrimmsim</b></a><br>
+<a href="https://stdgrimmsim.readthedocs.io"><img src="https://img.shields.io/badge/docs-readthedocs-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a><br>
+<sub>stdpopsim fork catalog</sub>
+</td>
+</tr>
+</table>
 
 ---
 
