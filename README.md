@@ -14,7 +14,6 @@ I build tools and methods for understanding evolutionary processes — from grap
 | **pysinger** | Python rewrite of the SINGER ARG sampler | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://pysinger.readthedocs.io) |
 | **FLI** | A Friendly Likelihood-based Inference Guide | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://fli.readthedocs.io) |
 | **watchgen** | The Watchmaker's Guide to Population Genetics | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://watchgen.readthedocs.io) |
-| **mkado** | A McDonald-Kreitman test implementation | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://mkado.readthedocs.io) |
 | **stdferdowsim** | Fork catalog for stdpopsim | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://stdferdowsim.readthedocs.io) |
 | **stdgrimmsim** | Fork catalog for stdpopsim | [![Docs](https://img.shields.io/badge/docs-readthedocs-blue)](https://stdgrimmsim.readthedocs.io) |
 
