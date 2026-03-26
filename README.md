@@ -4,6 +4,8 @@ Computational population geneticist working at the intersection of deep learning
 
 I build tools and methods for understanding evolutionary processes — from graph neural networks on ancestral recombination graphs to latent diffusion models for coalescent translation.
 
+**[kevinkorfmann.github.io](https://kevinkorfmann.github.io)** &mdash; Full project portfolio with documentation links
+
 ---
 
 ### Documentation
